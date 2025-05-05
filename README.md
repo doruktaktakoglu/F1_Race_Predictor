@@ -1,6 +1,6 @@
 # F1 Race Predictor 🏎️💨
 
-Welcome to my **F1 Race Predictor** project! 🚗💨
+Welcome to my **F1 Race Predictor** project! 🏎️💨
 
 As a **huge Formula 1 fan** and a **proud Max Verstappen supporter** 🦁, this project is born from my passion for the sport and my mission to predict race outcomes using historical data and machine learning models. I believe Max is the 🐐, and I'm here to take his dominance to the next level by predicting his success based on data! 🚀
 
@@ -35,7 +35,8 @@ pip install -r requirements.txt
 Running the Predictor 🏁
 To run the predictor, execute the following command:
 
-```python main.py
+```bash
+python main.py
 ```
 This will load the race and qualifying data, train the model, and predict the race times of drivers based on their qualifying performances.
 
