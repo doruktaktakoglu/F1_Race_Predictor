@@ -35,16 +35,17 @@ pip install -r requirements.txt
 Running the Predictor 🏁
 To run the predictor, execute the following command:
 
-```python main.py```
+```python main.py
+```
 This will load the race and qualifying data, train the model, and predict the race times of drivers based on their qualifying performances.
 
-Contributing 🤝
-As a dedicated F1 fan, I'm always excited about improving this project! Feel free to fork, raise issues, or contribute to making this model even better. Let’s make Max Verstappen 🦁 proud! 💪
+## Contributing 🤝
+As a dedicated F1 fan, I'm always excited about improving this project! Feel free to fork, raise issues, or contribute to making this model even better. Let's make Max Verstappen 🦁 even prouder — and bring some serious data-driven firepower to the grid! 💪
 
-License 📜
+## License 📜
 This project is open-source and available under the MIT License.
 
-Support 💬
+## Support 💬
 If you have questions or suggestions, don't hesitate to reach out! You can open an issue or drop a message in the discussions.
 
 
