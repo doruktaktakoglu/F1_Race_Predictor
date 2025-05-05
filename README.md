@@ -4,12 +4,13 @@ Welcome to my **F1 Race Predictor** project! 🚗💨
 
 As a **huge Formula 1 fan** and a **proud Max Verstappen supporter** 🦁, this project is born from my passion for the sport and my mission to predict race outcomes using historical data and machine learning models. I believe Max is the 🐐, and I'm here to take his dominance to the next level by predicting his success based on data! 🚀
 
+> **"Simply lovely!"** — Max Verstappen 🦁 (Because that's how I feel about this project!)
+
 ## Features 🌟
 
 - **Race & Qualifying Data**: Get real-time data from the **2024** and **2025 F1 sessions** to predict race outcomes.
 - **Machine Learning** 🤖: Uses **Gradient Boosting Regressor** to predict race times based on **qualifying performance**.
 - **Constructor's Championship Data**: Analyzes **car performance** from the **Constructor's Championship** 🏆 to enhance predictions.
-- **Max Verstappen Focused** 🦁: Predicts Max's performance with additional insights into his car's superiority.
 
 ## How It Works 🛠️
 
