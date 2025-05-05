@@ -31,14 +31,11 @@ To get started, simply **clone** the repository and install the necessary depend
 git clone https://github.com/yourusername/f1-race-predictor.git
 cd f1-race-predictor
 pip install -r requirements.txt
-
+```
 Running the Predictor 🏁
 To run the predictor, execute the following command:
 
-bash
-Copy
-Edit
-python main.py
+```python main.py```
 This will load the race and qualifying data, train the model, and predict the race times of drivers based on their qualifying performances.
 
 Contributing 🤝
