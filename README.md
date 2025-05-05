@@ -31,3 +31,23 @@ To get started, simply **clone** the repository and install the necessary depend
 git clone https://github.com/yourusername/f1-race-predictor.git
 cd f1-race-predictor
 pip install -r requirements.txt
+
+Running the Predictor 🏁
+To run the predictor, execute the following command:
+
+bash
+Copy
+Edit
+python main.py
+This will load the race and qualifying data, train the model, and predict the race times of drivers based on their qualifying performances.
+
+Contributing 🤝
+As a dedicated F1 fan, I'm always excited about improving this project! Feel free to fork, raise issues, or contribute to making this model even better. Let’s make Max Verstappen 🦁 proud! 💪
+
+License 📜
+This project is open-source and available under the MIT License.
+
+Support 💬
+If you have questions or suggestions, don't hesitate to reach out! You can open an issue or drop a message in the discussions.
+
+
